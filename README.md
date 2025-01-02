@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Muhammad Naimatullah Khan! 
 
-🚀 **Software Engineer** | **Cybersecurity Enthusiast** |** SQA & Cloud Advocate  **
-🌟 Passionate about delivering quality software solutions and solving real-world problems!
+**Software Engineer** | **Cybersecurity Enthusiast** |**SQA & Cloud Advocate**
+Passionate about delivering quality software solutions and solving real-world problems!
 
 ---
 
@@ -87,11 +87,11 @@ This section emphasizes my ability to protect infrastructures and respond to cyb
 ---
 ## 🌟 Featured Projects  
 1. **Event Planning App**  
-   [🔗 Galagrid](https://github.com/Cyber-Naimo/Galagrid) | Streamlining event planning in Pakistan.  
+   [Galagrid](https://github.com/Cyber-Naimo/Galagrid) | Streamlining event planning in Pakistan.  
 2. **E Shop Automation**  
-   [🔗 Magneto](https://github.com/Cyber-Naimo/Magneto) | Automated testing framework with **Selenium** and **MSTest**, reducing manual efforts by 40%.  
+   [Magneto](https://github.com/Cyber-Naimo/Magneto) | Automated testing framework with **Selenium** and **MSTest**, reducing manual efforts by 40%.  
 3. **WooxTravel**  
-   [🔗 WooxTravel](https://github.com/Cyber-Naimo/WooxTravel) | Travel Booking site built on **PHP**, **MYSQL**, **HTML**, **CSS**, **Javascript**  
+   [WooxTravel](https://github.com/Cyber-Naimo/WooxTravel) | Travel Booking site built on **PHP**, **MYSQL**, **HTML**, **CSS**, **Javascript**  
 
 ---
 
