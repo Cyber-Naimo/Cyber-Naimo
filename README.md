@@ -69,7 +69,7 @@ This section emphasizes my ability to protect infrastructures and respond to cyb
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyber-Naimo&show_icons=true&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Cyber-Naimo)  
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Cyber-Naimp&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ---
