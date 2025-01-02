@@ -108,6 +108,9 @@ This section emphasizes my ability to protect infrastructures and respond to cyb
   <a href="mailto:muhammadnaimatullahkhan99@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
+   <a href="https://medium.com/@naimss" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white" alt="Medium">
+  </a>
 </p>
 
 
