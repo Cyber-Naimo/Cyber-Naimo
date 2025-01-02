@@ -36,15 +36,15 @@
 
 ## 📊 GitHub Stats  
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Cyber-Naimo&theme=react-dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naimatullahkhan&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=naimatullahkhan) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyber-Naimo&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Cyber-Naimo)  
+
 ---
 
 ## 📈 Profile Stats  
-![Profile Views](https://komarev.com/ghpvc/?username=naimatullahkhan&color=blue)  
-🌟 **Followers:** [Your Follower Count](https://github.com/naimatullahkhan?tab=followers)  
+![Profile Views](https://komarev.com/ghpvc/?username=Cyber-Naimo&color=blue)  
+🌟 **Followers:** [Your Follower Count](https://github.com/Cyber-Naimo?tab=followers)  
 
----
 
 ## 📄 Resume  
 [![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=flat-square)](https://github.com/Cyber-Naimo/Cyber-Naimo/blob/main/Muhammad_Naimatullah_Khan_SQA.pdf)  
