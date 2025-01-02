@@ -35,7 +35,6 @@
 ---
 
 ## 📊 GitHub Stats  
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Cyber-Naimo&theme=react-dark)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyber-Naimo&show_icons=true&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Cyber-Naimo)  
 
@@ -56,9 +55,9 @@
 
 ---
 ## 🌟 Featured Projects  
-1. **Event Planning App**  
+1. **Event Planning App Gala Grid**  
    [🔗 Repository](https://github.com/Cyber-Naimo/Galagrid) | Streamlining event planning in Pakistan.  
-2. **SecureBox**  
+2. **E Shop Automation**  
    [🔗 Repository](https://github.com/Cyber-Naimo/Magneto) | Automated testing framework with **Selenium** and **MSTest**, reducing manual efforts by 40%.  
 3. **WooxTravel**  
    [🔗 Repository](https://github.com/Cyber-Naimo/WooxTravel) | Travel Booking site built on **PHP**, **MYSQL**, **HTML**, **CSS**, **Javascript**  
@@ -66,8 +65,15 @@
 ---
 
 ## 🤝 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-naimatullah-khan/)  
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadnaimatullahkhan99@gmail.com)  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-naimatullah-khan/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:muhammadnaimatullahkhan99@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 ---
 
 > ✨ *"Strive not to be a success, but rather to be of value." – Albert Einstein*  
