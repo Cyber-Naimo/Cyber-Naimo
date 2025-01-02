@@ -6,7 +6,7 @@
 ---
 
 ## About Me 🧑‍💻  
-🎓 Final Year CS Student | Head of Offensive Cyber Security Team  
+🎓 Final Year CS Student | Head of Offensive Cyber Security Team  <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 💡 Working on a **game-changing event planning app** to streamline the industry in Pakistan.  
 🎯 Learning Bug Bounty, Pentesting, and AI-driven solutions to stay ahead in tech.
 
@@ -45,6 +45,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Cyber-Naimo&color=blue)  
 ![GitHub Followers](https://img.shields.io/github/followers/Cyber-Naimo?style=social)  
 ---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Cyber-Naimo&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+--- 
 
 ## 📄 Resume  
 [![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=flat-square)](https://github.com/Cyber-Naimo/Cyber-Naimo/blob/main/Muhammad_Naimatullah_Khan_SQA.pdf)  
