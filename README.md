@@ -43,8 +43,8 @@
 
 ## 📈 Profile Stats  
 ![Profile Views](https://komarev.com/ghpvc/?username=Cyber-Naimo&color=blue)  
-🌟 **Followers:** [Your Follower Count](https://github.com/Cyber-Naimo?tab=followers)  
-
+![GitHub Followers](https://img.shields.io/github/followers/Cyber-Naimo?style=social)  
+---
 
 ## 📄 Resume  
 [![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=flat-square)](https://github.com/Cyber-Naimo/Cyber-Naimo/blob/main/Muhammad_Naimatullah_Khan_SQA.pdf)  
