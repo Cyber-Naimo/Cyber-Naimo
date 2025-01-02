@@ -47,7 +47,7 @@
 ---
 
 ## 📄 Resume  
-[![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=flat-square)](https://github.com/Cyber-Naimo/Muhammad_Naimatullah_Khan_SQA.pdf)  
+[![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=flat-square)](https://github.com/Cyber-Naimo/Cyber-Naimo/blob/main/Muhammad_Naimatullah_Khan_SQA.pdf)  
 
 ---
 ## 🌟 Featured Projects  
