@@ -66,9 +66,7 @@
 ---
 
 ## 🤝 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naimatullah-khan/)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/naimatullahk)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google-chrome)](https://yourportfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-naimatullah-khan/)  
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadnaimatullahkhan99@gmail.com)  
 ---
 
