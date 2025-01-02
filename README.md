@@ -75,10 +75,7 @@ This section emphasizes my ability to protect infrastructures and respond to cyb
 
 ---
 
-## 📈 Profile Stats  
-![Profile Views](https://komarev.com/ghpvc/?username=Cyber-Naimo&color=blue)  
-![GitHub Followers](https://img.shields.io/github/followers/Cyber-Naimo?style=social)  
----
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Cyber-Naimo&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
@@ -112,4 +109,8 @@ This section emphasizes my ability to protect infrastructures and respond to cyb
 
 > ✨ *"Strive not to be a success, but rather to be of value." – Albert Einstein*  
 
+## 📈 Profile Stats  
+![Profile Views](https://komarev.com/ghpvc/?username=Cyber-Naimo&color=blue)  
+![GitHub Followers](https://img.shields.io/github/followers/Cyber-Naimo?style=social)  
+---
 Thanks for stopping by! Feel free to explore my repositories and reach out for collaborations. 🚀
