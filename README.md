@@ -9,7 +9,9 @@ Passionate about delivering quality software solutions and solving real-world pr
 ## About Me 🧑‍💻  
 
 🎓 **Final Year CS Student** | **Head of Offensive Cyber Security Team**  <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+<br>
 💡 Working on a **game-changing event planning app** to streamline the industry in Pakistan. 
+<br>
 🎯 Learning Bug Bounty, Pentesting, and AI-driven solutions to stay ahead in tech.
 
 ---
