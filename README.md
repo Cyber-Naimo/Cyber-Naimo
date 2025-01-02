@@ -20,13 +20,45 @@
 
 ---
 
+## 🔒 Cybersecurity Expertise  
+
+As an **Entry-level Cloud Cybersecurity Analyst** with a strong foundation in cloud security principles, I bring hands-on experience in safeguarding cloud infrastructures and identifying vulnerabilities.  
+
+### Key Skills and Tools:
+- **Threat Detection & Vulnerability Management**:  
+  Proficient in identifying and mitigating vulnerabilities using tools like:  
+  - **Burp Suite**, **Metasploit**, **SQLmap**, **Acunetix**, **Nmap**, **Wireshark**, **Nessus**, and **Cisco Packet Tracer**.  
+
+- **Cloud Security**:  
+  - Proficient in managing **Google Cloud Platform** (IAM, Compute Engine, Cloud Storage, Cloud Logging).  
+  - Implemented **identity and access controls**, **firewall rules**, and **data protection measures**.  
+  - Ensured compliance with security standards through monitoring and documentation.  
+
+- **Security Operations**:  
+  - Expertise in **Incident Response**, **Compliance Lifecycle**, **Network Security**, and **Data Protection**.  
+
+### Key Projects:  
+1. **Data Breach Response and Recovery | Google Cloud Cybersecurity Capstone Project** (September 2024):  
+   - Responded to a simulated data breach by identifying and mitigating vulnerabilities (e.g., public bucket ACLs, open SSH/RDP ports).  
+   - Remediated issues by creating secure instances, restricting public access, and implementing firewall rules.  
+   - Ensured compliance with logging and monitoring practices.  
+
+2. **Threat Analysis on Cloud Systems**:  
+   - Simulated attacks and assessed defense mechanisms on Google Cloud Console.  
+   - Designed secure architectures to protect sensitive data and applications.  
+
+This section emphasizes my ability to protect infrastructures and respond to cybersecurity challenges effectively, making me a strong candidate for cloud security roles.  
+
+
 ## 🛠️ Tech Stack  
-- **Languages:** JavaScript, Python, C, C++, C#, SQL 
+- **Languages:** JavaScript, Python, C, C++, C#, SQL  
 - **Frameworks:** React, React Native, Flutter, .NET  
 - **Cloud:** Google Cloud Console, AWS  
-- **Tools:** Git, VMware  
-- **Other Skills:** API Testing, Security Testing, Agile 
----
+- **Tools:** Git, VMware, Burp Suite, Metasploit, Nmap, Wireshark, Nessus  
+- **Other Skills:** API Testing, Security Testing, Agile, Threat Detection, Vulnerability Management, Identity and Access Management (IAM)  
+- **Penetration Testing Tools:** Burp Suite, Metasploit, SQLmap, Acunetix, Wireshark, Nmap, Cisco Packet Tracer, Nessus  
+- **Security Operations:** Compliance Lifecycle, Data Protection, Network Security  
+
 
 ## 🏆 Certifications  
 - **Google Cloud Cybersecurity Certificate** (July 2024 - Sep 2024)  
@@ -55,12 +87,12 @@
 
 ---
 ## 🌟 Featured Projects  
-1. **Event Planning App Gala Grid**  
-   [🔗 Repository](https://github.com/Cyber-Naimo/Galagrid) | Streamlining event planning in Pakistan.  
+1. **Event Planning App**  
+   [🔗 Galagrid](https://github.com/Cyber-Naimo/Galagrid) | Streamlining event planning in Pakistan.  
 2. **E Shop Automation**  
-   [🔗 Repository](https://github.com/Cyber-Naimo/Magneto) | Automated testing framework with **Selenium** and **MSTest**, reducing manual efforts by 40%.  
+   [🔗 Magneto](https://github.com/Cyber-Naimo/Magneto) | Automated testing framework with **Selenium** and **MSTest**, reducing manual efforts by 40%.  
 3. **WooxTravel**  
-   [🔗 Repository](https://github.com/Cyber-Naimo/WooxTravel) | Travel Booking site built on **PHP**, **MYSQL**, **HTML**, **CSS**, **Javascript**  
+   [🔗 WooxTravel](https://github.com/Cyber-Naimo/WooxTravel) | Travel Booking site built on **PHP**, **MYSQL**, **HTML**, **CSS**, **Javascript**  
 
 ---
 
@@ -74,7 +106,6 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
----
 
 > ✨ *"Strive not to be a success, but rather to be of value." – Albert Einstein*  
 
