@@ -2,6 +2,7 @@
 
 
 **Software Engineer** | **Cybersecurity Enthusiast** | **SQA & Cloud Advocate**
+<br>
 Passionate about delivering quality software solutions and solving real-world problems!
 
 
