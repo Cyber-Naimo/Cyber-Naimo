@@ -35,7 +35,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=naimatullahkhan&theme=react-dark)  
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Cyber-Naimo&theme=react-dark)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naimatullahkhan&show_icons=true&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=naimatullahkhan) 
 ---
