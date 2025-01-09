@@ -8,7 +8,9 @@ Passionate about delivering quality software solutions and solving real-world pr
 
 ## About Me 🧑‍💻  
 
-🎓 **Final Year CS Student** | **Head of Offensive Cyber Security Team**  <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+🎓 **Final Year CS Student** | **Head of Offensive Cyber Security Team**  
+<br>
+<img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 <br>
 💡 Working on a **game-changing event planning app** to streamline the industry in Pakistan. 
 <br>
@@ -71,8 +73,7 @@ This section emphasizes my ability to protect infrastructures and respond to cyb
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyber-Naimo&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Cyber-Naimo)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyber-Naimo&show_icons=true&theme=radical)
 
 
 
