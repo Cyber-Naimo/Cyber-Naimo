@@ -212,7 +212,7 @@ mission:  >
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Cyber-Naimo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=Cyber-Naimo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -225,7 +225,7 @@ mission:  >
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cyber-Naimo/Cyber-Naimo/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cyber-Naimo/Cyber-Naimo/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Cyber-Naimo/Cyber-Naimo/output/github-snake.svg"/>
+  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/Cyber-Naimo/Cyber-Naimo/output/github-snake.svg"/>
 </picture>
 
 </div>
