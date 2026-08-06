@@ -4,7 +4,7 @@
 
 # Muhammad Naimatullah Khan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=DevOps+Engineer+%40+Paysys+Labs+%F0%9F%87%B5%F0%9F%87%B0;Kubernetes+%7C+CI%2FCD+%7C+Fintech+Infrastructure;99.9%25+Uptime+Across+2+Countries;CKA+Certified+%C2%B7+2%C3%97+Gold+Medalist+%F0%9F%A5%87)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=DevOps+Engineer+%40+Veeam+%F0%9F%87%B5%F0%9F%87%B0;Kubernetes+%7C+CI%2FCD+%7C+Fintech+Infrastructure;99.9%25+Uptime+Across+2+Countries;CKA+Certified+%C2%B7+2%C3%97+Gold+Medalist+%F0%9F%A5%87)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/muhammad-naimatullah-khan">
