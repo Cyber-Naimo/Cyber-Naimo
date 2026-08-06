@@ -31,13 +31,12 @@
 ```yaml
 name:     Muhammad Naimatullah Khan
 role:     Associate DevOps Engineer
-company:  Paysys Labs  →  Fintech · Real-time Gross Settlement
+company:  Veeam Software  →  Data Resilience & Backup Solutions
 location: Karachi, Pakistan 🇵🇰
-open_to:  DevOps · Platform Engineering · Infrastructure roles
 mission:  >
-  Building infrastructure that handles real financial transactions
-  across Togo & Tanzania — where downtime isn't an inconvenience,
-  it's a business-critical failure.
+  Building reliable, scalable, and automated infrastructure
+  that helps organizations protect, recover, and manage
+  their critical data with confidence.
 ```
 
 > *"I fix things before people notice they're broken — and sometimes fix things people didn't know needed fixing."*
