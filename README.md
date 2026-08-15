@@ -30,8 +30,9 @@
 
 ```yaml
 name:     Muhammad Naimatullah Khan
-role:     Associate DevOps Engineer
+role:     DevOps Engineer
 company:  Veeam Software  →  Data Resilience & Backup Solutions
+previous: Paysys Labs  →  Fintech / RTGS Infrastructure
 location: Karachi, Pakistan 🇵🇰
 mission:  >
   Building reliable, scalable, and automated infrastructure
@@ -47,7 +48,7 @@ mission:  >
 
 <div align="center">
 
-> My full resume covers Kubernetes infrastructure, CI/CD pipelines, observability, disaster recovery, and DevSecOps at production fintech scale.
+> My full resume covers Kubernetes infrastructure, CI/CD pipelines, observability, disaster recovery, and DevSecOps — from production fintech scale to enterprise data resilience.
 
 <a href="https://github.com/Cyber-Naimo/Cyber-Naimo/raw/main/Muhammad_Naimatullah_Khan.pdf">
   <img src="https://img.shields.io/badge/⬇️_Download_Resume-Muhammad_Naimatullah_Khan.pdf-3B82F6?style=for-the-badge&logoColor=white"/>
@@ -179,7 +180,10 @@ mission:  >
 
 ## 💼 Experience
 
-**Associate DevOps Engineer** · Paysys Labs *(Aug 2025 – Present)*
+**DevOps Engineer** · Veeam Software *(Aug 2026 – Present)*
+> Building and operating infrastructure for data resilience and backup solutions — Kubernetes, CI/CD automation, and cloud platform reliability at enterprise scale.
+
+**Associate DevOps Engineer** · Paysys Labs *(Aug 2025 – Aug 2026)*
 > EKS Anywhere Kubernetes for RTGS fintech systems across Togo & Tanzania. Built KubeForge CLI, ELK Stack observability, DR pipeline, DevSecOps with Trivy + SonarQube. Trained 20+ engineers at partner banks.
 
 **QA Engineer Intern** · VentureDive *(Mar 2025 – Jul 2025)*
@@ -235,7 +239,7 @@ mission:  >
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cyber-Naimo&bg_color=0D1117&color=3B82F6&line=8B5CF6&point=10B981&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cyber-Naimo&bg_color=0D1117&color=3B82F6&line=8B5CF6&point=10B981&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -245,8 +249,8 @@ mission:  >
 
 <div align="center">
 
-Open to **DevOps**, **Platform Engineering**, and **Infrastructure** roles.<br/>
-Building something that needs to be **reliable at scale**? Let's talk.
+Currently building **data resilience infrastructure** at **Veeam Software**.<br/>
+Always up for a conversation about **DevOps**, **Platform Engineering**, and **Kubernetes at scale**.
 
 <br/>
 
