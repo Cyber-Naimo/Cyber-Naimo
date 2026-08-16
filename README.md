@@ -181,7 +181,7 @@ mission:  >
 ## 💼 Experience
 
 **DevOps Engineer** · Veeam Software *(Aug 2026 – Present)*
-> Building and operating infrastructure for data resilience and backup solutions — Kubernetes, CI/CD automation, and cloud platform reliability at enterprise scale.
+> Building and operating infrastructure for data resilience and backup solutions, Kubernetes, CI/CD automation, and cloud platform reliability at enterprise scale.
 
 **Associate DevOps Engineer** · Paysys Labs *(Aug 2025 – Aug 2026)*
 > EKS Anywhere Kubernetes for RTGS fintech systems across Togo & Tanzania. Built KubeForge CLI, ELK Stack observability, DR pipeline, DevSecOps with Trivy + SonarQube. Trained 20+ engineers at partner banks.
@@ -190,7 +190,7 @@ mission:  >
 > Automated Careem Dubai app with Maestro. Found 3+ critical security vulnerabilities. Built Selenium framework with Extent Reports and BDD/Cucumber.
 
 **Head of Offensive Security** · ACM FAST NUCES *(2024)*
-> Led offensive security wing — CTF events, penetration testing workshops, student security community.
+> Led offensive security wing, CTF events, penetration testing workshops, student security community.
 
 ---
 
