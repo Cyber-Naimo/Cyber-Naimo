@@ -1,115 +1,201 @@
-<div align="center">
+<img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,50:FB923C,100:F97316&height=140&section=header&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=130&section=header&animation=fadeIn&fontColor=fff&fontSize=30" width="100%"/>
+<div align="center">
 
 # Muhammad Naimatullah Khan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=DevOps+Engineer+%40+Veeam+%F0%9F%87%B5%F0%9F%87%B0;Kubernetes+%7C+CI%2FCD+%7C+Fintech+Infrastructure;99.9%25+Uptime+Across+2+Countries;CKA+Certified+%C2%B7+2%C3%97+Gold+Medalist+%F0%9F%A5%87)](https://git.io/typing-svg)
+**DevOps &amp; Platform Engineer at Veeam Software**
 
-<p>
-  <a href="https://www.linkedin.com/in/muhammad-naimatullah-khan">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:muhammadnaimatullahkhan99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Cyber-Naimo/Cyber-Naimo/raw/main/Muhammad_Naimatullah_Khan.pdf">
-    <img src="https://img.shields.io/badge/Resume-Download_PDF-10B981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
-  <a href="https://naimss.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-naimss.vercel.app-F59E0B?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Cyber-Naimo&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS"/>
-</p>
+I keep Kubernetes platforms boring, so the teams on top of them can be interesting.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=F97316&center=true&vCenter=true&width=640&height=40&lines=Jenkins+CI+%C2%B7+Spinnaker+CD+%C2%B7+Argo+CD+GitOps;AWS+core+%C2%B7+GCP+regional+%C2%B7+Karpenter+%C2%B7+Kyverno;If+it+is+not+in+git%2C+it+is+not+in+the+cluster)](https://git.io/typing-svg)
+
+<a href="https://www.linkedin.com/in/muhammad-naimatullah-khan"><img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+&nbsp;
+<a href="mailto:muhammadnaimatullahkhan99@gmail.com"><img alt="Email" src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+&nbsp;
+<a href="https://naimss.vercel.app"><img alt="Portfolio" src="https://skillicons.dev/icons?i=vercel" height="40"/></a>
+&nbsp;
+<a href="https://github.com/Cyber-Naimo"><img alt="GitHub" src="https://skillicons.dev/icons?i=github" height="40"/></a>
+
+<img alt="99.9 percent uptime" src="https://img.shields.io/badge/Uptime-99.9%25-F97316?style=flat-square&labelColor=1F2937"/>
+<img alt="90 percent faster deploys" src="https://img.shields.io/badge/Deploys-90%25_faster-F97316?style=flat-square&labelColor=1F2937"/>
+<img alt="100 percent tested recovery" src="https://img.shields.io/badge/Recovery-100%25_tested-F97316?style=flat-square&labelColor=1F2937"/>
+<img alt="CKA certified" src="https://img.shields.io/badge/CKA-Certified-F97316?style=flat-square&labelColor=1F2937"/>
+<img alt="Based in Karachi, Pakistan" src="https://img.shields.io/badge/Karachi-PK-1F2937?style=flat-square&labelColor=1F2937"/>
 
 </div>
 
----
-
-## ⚡ Who I Am
+## `kubectl describe engineer naimatullah`
 
 ```yaml
-name:     Muhammad Naimatullah Khan
-role:     DevOps Engineer
-company:  Veeam Software  →  Data Resilience & Backup Solutions
-previous: Paysys Labs  →  Fintech / RTGS Infrastructure
-location: Karachi, Pakistan 🇵🇰
-mission:  >
-  Building reliable, scalable, and automated infrastructure
-  that helps organizations protect, recover, and manage
-  their critical data with confidence.
+apiVersion: platform.veeam.io/v1
+kind: Engineer
+metadata:
+  name: muhammad-naimatullah-khan
+  namespace: data-resilience
+  labels:
+    role: devops-platform
+    focus: kubernetes
+spec:
+  replicas: 1
+  owns:
+    - jenkins-ci-templates
+    - spinnaker-delivery
+    - argocd-gitops
+    - internal-tooling
+  clouds: [aws, gcp]
+  principles:
+    - git is the only source of truth
+    - alert before the customer notices
+    - a backup is a rumour until you restore it
+status:
+  phase: Running
+  uptime: 99.9%
+  restartCount: 0
 ```
 
-> *"I fix things before people notice they're broken — and sometimes fix things people didn't know needed fixing."*
+## Currently
 
----
+Platform engineering for Veeam's data resilience products.
 
-## 📄 Resume
+| | |
+|:--|:--|
+| **Runtime** | Kubernetes is the whole infrastructure, not a piece of it |
+| **CI** | Jenkins, multiple shared pipeline templates so new services start with a working path |
+| **CD** | Spinnaker promotion pipelines with real gates and real rollbacks |
+| **Packaging** | Helm charts for everything that ships |
+| **GitOps** | Argo CD keeping every cluster equal to git, drift visible on a dashboard |
+| **Cloud** | AWS as core, GCP in select regions |
+| **Scaling** | Karpenter provisioning against real demand instead of a fixed guess |
+| **Policy** | Kyverno enforcing guardrails in the cluster, not in review comments |
+| **Tooling** | Internal developer tools plus alerting and backup automation I build and maintain |
+
+## Delivery pipeline I run
+
+```mermaid
+flowchart LR
+    subgraph CI["SOURCE · CI"]
+        direction TB
+        APP(["git push"]) --> BUILD["Jenkins<br/>shared template"] --> TEST["build · test"] --> GATE{{"Trivy · SonarQube<br/>quality gate"}}
+    end
+
+    subgraph ART["ARTIFACTS"]
+        direction TB
+        IMG[("image<br/>registry")]
+        CHART[("Helm<br/>charts")]
+    end
+
+    subgraph DEL["DELIVERY"]
+        direction TB
+        SPIN{{"Spinnaker<br/>promotion gates"}} --> CFG(["config repo"]) --> ARGO["Argo CD"]
+    end
+
+    subgraph RT["RUNTIME · KUBERNETES"]
+        direction TB
+        KYV["Kyverno<br/>admission policy"]
+        WL["workloads"]
+        KARP["Karpenter<br/>node capacity"]
+        OBS["Prometheus · Grafana<br/>ELK"]
+    end
+
+    subgraph CLD["CLOUD"]
+        direction TB
+        AWS["AWS<br/>core"]
+        GCP["GCP<br/>regional"]
+    end
+
+    GATE --> IMG
+    GATE --> CHART
+    IMG --> SPIN
+    CHART --> SPIN
+    ARGO -->|sync| WL
+    KYV -.->|admit| WL
+    KARP -.->|scale| WL
+    WL -.->|metrics| OBS
+    WL --> AWS
+    WL --> GCP
+
+    linkStyle default stroke:#9CA3AF,stroke-width:1.5px
+
+    classDef proc fill:#1F2937,stroke:#4B5563,color:#F9FAFB
+    classDef store fill:#0F766E,stroke:#134E4A,color:#F0FDFA
+    classDef hot fill:#F97316,stroke:#C2410C,color:#111827
+    class APP,BUILD,TEST,GATE,SPIN,CFG,KYV,KARP,OBS,AWS,GCP proc
+    class IMG,CHART store
+    class ARGO,WL hot
+    style CI fill:#0D1117,stroke:#30363D,color:#8B949E
+    style ART fill:#0D1117,stroke:#30363D,color:#8B949E
+    style DEL fill:#0D1117,stroke:#30363D,color:#8B949E
+    style RT fill:#0D1117,stroke:#30363D,color:#8B949E
+    style CLD fill:#0D1117,stroke:#30363D,color:#8B949E
+```
+
+## Stack
 
 <div align="center">
 
-> My full resume covers Kubernetes infrastructure, CI/CD pipelines, observability, disaster recovery, and DevSecOps — from production fintech scale to enterprise data resilience.
+<img alt="Kubernetes, Docker, Jenkins, AWS, GCP, Terraform, Ansible, Linux" src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,aws,gcp,terraform,ansible,linux&theme=dark" height="48"/>
+<br/>
+<img alt="Prometheus, Grafana, Elasticsearch, GitLab, GitHub, Bash, Python, Postgres" src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,gitlab,github,bash,python,postgres&theme=dark" height="48"/>
 
-<a href="https://github.com/Cyber-Naimo/Cyber-Naimo/raw/main/Muhammad_Naimatullah_Khan.pdf">
-  <img src="https://img.shields.io/badge/⬇️_Download_Resume-Muhammad_Naimatullah_Khan.pdf-3B82F6?style=for-the-badge&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/Cyber-Naimo/Cyber-Naimo/blob/main/Muhammad_Naimatullah_Khan.pdf">
-  <img src="https://img.shields.io/badge/👁️_View_Online-GitHub_Preview-8B5CF6?style=for-the-badge&logoColor=white"/>
-</a>
+<br/>
 
-</div>
-
----
-
-## 🏆 By The Numbers
-
-<div align="center">
-
-| Metric | Value |
-|--------|-------|
-| 🟢 Uptime Maintained | **99.9%** across 20+ Java microservices |
-| 🚀 Deployment Speed | **70–90% faster** with KubeForge CLI |
-| 🔍 Detection Time | **60% faster** with full ELK Stack observability |
-| 💾 Disaster Recovery | **100% data recovery** — tested, not assumed |
-| 👨‍🏫 Engineers Trained | **20+ engineers** at partner banks |
-| 🏅 Academic | **2× Gold Medalist** · FAST NUCES |
+<img alt="Helm" src="https://img.shields.io/badge/Helm-1F2937?style=flat-square&logo=helm&logoColor=white"/>
+<img alt="Argo CD" src="https://img.shields.io/badge/Argo_CD-1F2937?style=flat-square&logo=argo&logoColor=white"/>
+<img alt="Spinnaker" src="https://img.shields.io/badge/Spinnaker-1F2937?style=flat-square&logo=spinnaker&logoColor=white"/>
+<img alt="Karpenter" src="https://img.shields.io/badge/Karpenter-1F2937?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img alt="Kyverno" src="https://img.shields.io/badge/Kyverno-1F2937?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img alt="Velero" src="https://img.shields.io/badge/Velero-1F2937?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img alt="Trivy" src="https://img.shields.io/badge/Trivy-1F2937?style=flat-square&logo=trivy&logoColor=white"/>
+<img alt="MinIO" src="https://img.shields.io/badge/MinIO-1F2937?style=flat-square&logo=minio&logoColor=white"/>
 
 </div>
 
----
+## Selected work
 
-## 🛠️ Tech Stack
+| Project | What it is | Outcome |
+|:--|:--|:--|
+| **[KubeForge](https://github.com/naimss-paysys/k8s-templates)** | Deployment CLI with preflight checks, diff preview, approval gate, auto rollback | 90% faster deploys, zero downtime |
+| **DR pipeline** | Velero, OpenEBS and MinIO doing scheduled full cluster backups | Proven by deleting a cluster and restoring it |
+| **ELK platform** | Filebeat to Logstash to Elasticsearch to Kibana across 9+ services | 60% faster detection |
+| **[API platform](https://github.com/naimss-paysys/hoppscotch)** | Self hosted Hoppscotch with custom auth, RBAC, team workspaces | Postman licensing cost to zero |
 
-### Container & Orchestration
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![EKS](https://img.shields.io/badge/EKS_Anywhere-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+## Open source
 
-### CI/CD & Automation
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+Code you can actually read.
 
-### Monitoring & Observability
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+| Repo | What it does |
+|:--|:--|
+| **[ai-devops](https://github.com/Cyber-Naimo/ai-devops)** | SRE command center for air gapped Linux fleets. FastAPI control plane, React dashboard, RPM packaged Python agent, SSH scanning, RBAC |
+| **[ci-templates](https://github.com/Cyber-Naimo/ci-templates)** | Reusable GitLab CI templates for Java and Node microservices. One `include:` block and the pipeline is production ready |
+| **[devsecops-assignment](https://github.com/Cyber-Naimo/devsecops-assignment)** | Two host Docker Swarm cluster, Consul over HTTPS, mTLS Docker, Terraform and Ansible, seven DevSecOps controls |
+| **[FullStackChatApp-K8s](https://github.com/Cyber-Naimo/FullStackChatApp-K8s)** | Full stack chat app with a Jenkinsfile and Kubernetes manifests, built to be deployed rather than demoed |
 
-### Cloud & IaC
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+## Experience
 
-### DevSecOps & Storage
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua-security&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
-![Velero](https://img.shields.io/badge/Velero-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+| Role | Company | Years |
+|:--|:--|:--|
+| DevOps Engineer | Veeam Software | 2026, present |
+| Associate DevOps Engineer | Paysys Labs | 2025, 2026 |
+| QA Engineer Intern | VentureDive | 2025 |
+| Head of Offensive Security | ACM FAST NUCES | 2024 |
+
+## Certifications
+
+<img alt="CKA" src="https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-F97316?style=flat-square&logo=kubernetes&logoColor=white&labelColor=1F2937"/>
+<img alt="Gold Medalist" src="https://img.shields.io/badge/2×-Gold_Medalist,_FAST_NUCES-1F2937?style=flat-square"/>
+<img alt="Raising the Bar Award" src="https://img.shields.io/badge/Award-Raising_the_Bar-1F2937?style=flat-square"/>
+<img alt="Google Cloud Foundations" src="https://img.shields.io/badge/Google_Cloud-Foundations-1F2937?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img alt="EC-Council EHE" src="https://img.shields.io/badge/EC--Council-Ethical_Hacking-1F2937?style=flat-square"/>
+
+## Résumé
+
+Full history, certifications and project detail in one PDF.
+
+<a href="https://github.com/Cyber-Naimo/Cyber-Naimo/raw/main/Muhammad_Naimatullah_Khan.pdf"><img alt="Download résumé as PDF" src="https://img.shields.io/badge/Download_PDF-F97316?style=for-the-badge&labelColor=F97316"/></a>
+<a href="https://github.com/Cyber-Naimo/Cyber-Naimo/blob/main/Muhammad_Naimatullah_Khan.pdf"><img alt="View résumé on GitHub" src="https://img.shields.io/badge/View_in_browser-1F2937?style=for-the-badge"/></a>
+<a href="https://naimss.vercel.app"><img alt="Portfolio site" src="https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 ### Languages & Scripting
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -226,54 +312,24 @@ mission:  >
 <div align="center">
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cyber-Naimo&theme=github_dark"/>
+  <img alt="GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cyber-Naimo&theme=default"/>
+</picture>
+
+<img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Cyber-Naimo&bg_color=00000000&color=F97316&line=F97316&point=FB923C&area_color=F97316&title_color=F97316&area=true&hide_border=true"/>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cyber-Naimo/Cyber-Naimo/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cyber-Naimo/Cyber-Naimo/output/github-snake.svg"/>
-  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/Cyber-Naimo/Cyber-Naimo/output/github-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Cyber-Naimo/Cyber-Naimo/output/github-snake.svg"/>
 </picture>
 
 </div>
 
----
+## Get in touch
 
-## 📈 Contribution Activity
+Open to conversations about platform engineering, GitOps, and running Kubernetes as the whole stack.
 
-<div align="center">
+<a href="https://www.linkedin.com/in/muhammad-naimatullah-khan"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect_on_LinkedIn-F97316?style=for-the-badge&labelColor=F97316"/></a>
+<a href="mailto:muhammadnaimatullahkhan99@gmail.com"><img alt="Send an email" src="https://img.shields.io/badge/Send_an_email-1F2937?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-[![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cyber-Naimo&bg_color=0D1117&color=3B82F6&line=8B5CF6&point=10B981&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-Currently building **data resilience infrastructure** at **Veeam Software**.<br/>
-Always up for a conversation about **DevOps**, **Platform Engineering**, and **Kubernetes at scale**.
-
-<br/>
-
-<a href="https://www.linkedin.com/in/muhammad-naimatullah-khan">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:muhammadnaimatullahkhan99@gmail.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://naimss.vercel.app">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-naimss.vercel.app-F59E0B?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/Cyber-Naimo/Cyber-Naimo/raw/main/Muhammad_Naimatullah_Khan.pdf">
-  <img src="https://img.shields.io/badge/Download_Resume-10B981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=80&section=footer" width="100%"/>
-</div>
+<img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,50:FB923C,100:F97316&height=100&section=footer&animation=fadeIn" width="100%"/>

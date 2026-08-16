@@ -1,0 +1,65 @@
+# Local AI tooling config, machine specific, never push
+.claude/
+.serena/
+.cursor/
+.aider*
+.continue/
+CLAUDE.local.md
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Secrets and environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+credentials
+secrets.yaml
+secrets.yml
+kubeconfig
+*.kubeconfig
+.aws/
+.gcloud/
+*.tfvars
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Logs and temp
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+*.bak
+*.orig
+
+# Dependencies and build output
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+.venv/
+venv/
